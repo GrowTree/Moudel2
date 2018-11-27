@@ -1,0 +1,16 @@
+PODS:
+  - Moudel2 (0.1.0)
+
+DEPENDENCIES:
+  - Moudel2 (from `../`)
+
+EXTERNAL SOURCES:
+  Moudel2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Moudel2: a77f37b66496e6b41b8171278c2284be33f39a3e
+
+PODFILE CHECKSUM: ec6d322d47a955fb7b47d7e7bf232a5a49fcc0c8
+
+COCOAPODS: 1.5.3

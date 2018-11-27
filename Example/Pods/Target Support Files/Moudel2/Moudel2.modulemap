@@ -1,0 +1,6 @@
+framework module Moudel2 {
+  umbrella header "Moudel2-umbrella.h"
+
+  export *
+  module * { export * }
+}
